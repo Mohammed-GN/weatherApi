@@ -15,7 +15,6 @@ import { useEffect, useState } from "react";
 // import { changeLanguage } from "i18next";
 
 // let cancelAxios = null;
-
 export function CardWeather() {
   const dispatch = useDispatch();
 
@@ -55,7 +54,6 @@ export function CardWeather() {
     setTime(moment().format("MMM Do YY"));
   }
   useEffect(() => {
-    
     dispatch(fetchWeather());
     dispatch(changeResult());
     i18n.changeLanguage("ar");
