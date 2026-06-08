@@ -1,7 +1,7 @@
 import "./App.css";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import { CardWeather } from "./Card/Card";
-
+const x = null
 const theme = createTheme({
   typography: {
     fontFamily: ["arabic"],
