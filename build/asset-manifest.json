@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3852b295.css",
+    "main.js": "/static/js/main.80e009fb.js",
+    "static/js/453.a6b04860.chunk.js": "/static/js/453.a6b04860.chunk.js",
+    "static/media/Vazirmatn-Regular.ttf": "/static/media/Vazirmatn-Regular.1340fc63c6d61549c84d.ttf",
+    "index.html": "/index.html",
+    "main.3852b295.css.map": "/static/css/main.3852b295.css.map",
+    "main.80e009fb.js.map": "/static/js/main.80e009fb.js.map",
+    "453.a6b04860.chunk.js.map": "/static/js/453.a6b04860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3852b295.css",
+    "static/js/main.80e009fb.js"
+  ]
+}
